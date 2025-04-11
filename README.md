@@ -10,7 +10,7 @@ A modern boilerplate for building dashboards or any frontend UIs using **React**
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/react-starter-boiler-plate.git
+git clone https://github.com/ahmad-ir-solutions/react-starter-boiler-plate.git
 
 # 2. Install dependencies
 npm install
